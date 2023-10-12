@@ -2,7 +2,7 @@
 
 void main ()
 {
-    char c;
+    int c;
     int jumchar = 0;
     int jumspace = 0;
 
